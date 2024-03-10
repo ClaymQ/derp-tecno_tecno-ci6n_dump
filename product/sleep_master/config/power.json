@@ -1,0 +1,18 @@
+{
+  "version": "1.0.2",
+  "enabledSleepMaster": true,
+  "enabledAbnormalHandler": true,
+  "enabledForceStop": true,
+  "blackPackages": [
+        "com.jingyao.easybike",
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.roblox.client"
+  ],
+  "forceStopPackages": [
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.tencent.android.qqdownloader",
+        "com.roblox.client"
+  ]
+}
