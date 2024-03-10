@@ -1,0 +1,14 @@
+# sys_tssi_64_tecno-user 13 TP1A.220624.014 367851 release-keys
+- manufacturer: tecno
+- platform: mt6768
+- codename: TECNO-CI6n
+- flavor: sys_tssi_64_tecno-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: 230630V426
+- tags: release-keys
+- fingerprint: TECNO/CI6n-OP/TECNO-CI6n:12/SP1A.210812.016/230630V307:user/release-keys
+- is_ab: true
+- brand: TECNO
+- branch: sys_tssi_64_tecno-user-13-TP1A.220624.014-367851-release-keys
+- repo: tecno_tecno-ci6n_dump
