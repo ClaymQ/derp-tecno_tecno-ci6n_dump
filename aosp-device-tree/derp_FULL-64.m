@@ -15,7 +15,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/tecno/FULL-64/device.mk)
 
 PRODUCT_DEVICE := FULL-64
-PRODUCT_NAME := lineage_FULL-64
+PRODUCT_NAME := derp_FULL-64
 PRODUCT_BRAND := TECNO
 PRODUCT_MANUFACTURER := tecno
 
